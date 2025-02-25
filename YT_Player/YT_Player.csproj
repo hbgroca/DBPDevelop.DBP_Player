@@ -21,10 +21,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<Folder Include="Resources\Icon\" />
-	</ItemGroup>
-
-	<ItemGroup>
 		<Resource Include="assets\app.ico" />
 	</ItemGroup>
 

@@ -39,7 +39,11 @@
                         DBP Player
                   </TextBlock>
                </Border>
-               <Button x:Name="ExitButton" Style="{StaticResource ExitButton}" Grid.Column="2" Click="ExitButton_Click" Cursor="Hand"/>
+               <StackPanel Grid.Column="2" Orientation="Horizontal">
+                  <Button x:Name="Minimize" Style="{StaticResource MinimizeButton}" Click="Minimize_Click" Cursor="Hand" Margin="-1,0"/>
+                  <Button x:Name="Exit" Style="{StaticResource ExitButton}"  Click="Exit_Click" Cursor="Hand"/>
+               </StackPanel>
+               
             </Grid>
          </StackPanel>
 

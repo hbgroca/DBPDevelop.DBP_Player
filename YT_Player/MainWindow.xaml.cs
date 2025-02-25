@@ -75,8 +75,14 @@ public partial class MainWindow : Window
 
 
     // Close window
-    private void ExitButton_Click(object sender, RoutedEventArgs e)
+    private void Exit_Click(object sender, RoutedEventArgs e)
     {
         Environment.Exit(0);
+    }
+
+    // Minimize window
+    private void Minimize_Click(object sender, RoutedEventArgs e)
+    {
+        WindowState = WindowState.Minimized;
     }
 }
