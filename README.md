@@ -44,7 +44,7 @@ Running YouTube Music in a regular Chrome browser tab consumes around 640MB of R
 Feel free to fork, submit PRs, or report issues.
 
 ## License
-Free to use and modify.
+MIT License
 
 ---
 Created by DBP Develop © 2025
