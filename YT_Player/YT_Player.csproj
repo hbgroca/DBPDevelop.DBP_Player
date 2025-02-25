@@ -8,6 +8,8 @@
 		<UseWPF>true</UseWPF>
 		<AssemblyName>DBP_Player</AssemblyName>
 		<ApplicationIcon>assets\app.ico</ApplicationIcon>
+		<Description>YouTube Music Lightweight Player</Description>
+		<Version>1.0.0</Version>
 	</PropertyGroup>
 
 	<ItemGroup>
