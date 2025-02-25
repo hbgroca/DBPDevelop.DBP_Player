@@ -4,6 +4,8 @@ A lightweight, modern YouTube Music player built with WPF.
 ## Overview
 DBP Player is a minimalist desktop application that provides a seamless YouTube Music experience in a clean, customized window. Built with performance and simplicity in mind.
 
+<img src="/Screenshoots/Example.png" alt="Current design of application" width="150" height="270">
+
 ## Why DBP Player?
 Running YouTube Music in a regular Chrome browser tab consumes around 640MB of RAM, while DBP Player uses only 36MB - that's a 94% reduction in memory usage! This makes it ideal for:
 - Gamers who want background music without performance impact
@@ -31,7 +33,7 @@ Running YouTube Music in a regular Chrome browser tab consumes around 640MB of R
 - Zero configuration needed
 
 ## Installation
-1. Download the latest release
+1. Download the latest release from the "Builds" folder
 2. Extract the files
 3. Run DBP_Player.exe
 
