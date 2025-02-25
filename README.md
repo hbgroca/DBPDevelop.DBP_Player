@@ -32,7 +32,7 @@ DBP Player is a minimalist desktop application that provides a seamless YouTube 
 Feel free to fork, submit PRs, or report issues.
 
 ## License
-Free to use and modify.
+MIT License
 
 ---
 Created by DBP Develop © 2025
